@@ -1,0 +1,4 @@
+/home/ubuntu/catkin_ws/src/01_downsampling/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/catkin_ws/src/01_downsampling/CMakeFiles/edit_cache.dir
+/home/ubuntu/catkin_ws/src/01_downsampling/CMakeFiles/voxel.dir
+/home/ubuntu/catkin_ws/src/01_downsampling/CMakeFiles/uniform.dir

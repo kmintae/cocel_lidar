@@ -1,0 +1,4 @@
+/home/ubuntu/catkin_ws/src/01_roi/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/catkin_ws/src/01_roi/CMakeFiles/passthrough.dir
+/home/ubuntu/catkin_ws/src/01_roi/CMakeFiles/edit_cache.dir
+/home/ubuntu/catkin_ws/src/01_roi/CMakeFiles/conditional.dir

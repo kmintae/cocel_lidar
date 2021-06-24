@@ -1,0 +1,4 @@
+/home/ubuntu/catkin_ws/src/01_io/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/catkin_ws/src/01_io/CMakeFiles/edit_cache.dir
+/home/ubuntu/catkin_ws/src/01_io/CMakeFiles/read.dir
+/home/ubuntu/catkin_ws/src/01_io/CMakeFiles/genNwrite.dir
