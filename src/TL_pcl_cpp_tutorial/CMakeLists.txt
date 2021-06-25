@@ -5,6 +5,7 @@ project(TL_pcl_cpp_tutorial)
 # add_compile_options(-std=c++11)
 
 set (pcl_DIR "/usr/lib/x86_64-linux-gnu/cmake/pcl")
+# set (pcl_DIR "/usr/lib/aarch64-linux-gnu/cmake/pcl")
 
 ## Find catkin macros and libraries
 ## if COMPONENTS list like find_package(catkin REQUIRED COMPONENTS xyz)
